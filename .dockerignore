@@ -1,0 +1,15 @@
+node_modules
+.git
+.gitignore
+*.md
+client
+server
+script
+*.log
+.env.local
+.DS_Store
+tsconfig.json
+vite.config.ts
+tailwind.config.ts
+postcss.config.js
+drizzle.config.ts
